@@ -21,3 +21,5 @@ This project focuses on using logistic regression, a popular machine learning al
 ## Conclusion
 
 Logistic regression is a powerful algorithm for email classification, enabling the differentiation between spam and legitimate emails based on their features. By implementing logistic regression and leveraging its probabilistic nature, we can effectively classify emails and enhance email management, spam filtering, and user experience.
+
+##This Project also contains the trained model
